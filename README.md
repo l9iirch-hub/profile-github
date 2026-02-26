@@ -25,11 +25,11 @@ Hi there, I'm **Houssam Elarsaoui**, a Full Stack Developer who specializes in *
 
 Here's an interactive contribution graph, showing my activity and streaks.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l9iirch-hub&show_icons=true&hide_title=true)
 
 ### Fun Contribution Timeline:
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&bg_color=000000&color=00ff00&line=00ff00&point=ffffff)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=l9iirch-hub&bg_color=000000&color=00ff00&line=00ff00&point=ffffff)
 
 ## I'm currently learning ...
 
